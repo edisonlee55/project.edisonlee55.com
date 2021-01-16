@@ -1,3 +1,4 @@
 [submodule "random-shuffle-generator"]
 	path = random-shuffle-generator
 	url = https://github.com/edisonlee55/random-shuffle-generator
+	branch = main

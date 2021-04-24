@@ -1,6 +1,3 @@
 [submodule "random-shuffle-generator"]
 	path = random-shuffle-generator
 	url = https://github.com/edisonlee55/random-shuffle-generator
-[submodule "meme-editor"]
-	path = meme-editor
-	url = https://github.com/edisonlee55/meme-editor
